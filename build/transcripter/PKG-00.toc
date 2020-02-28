@@ -1,0 +1,62 @@
+('G:\\Projects\\Apollonius Projects\\Advocates '
+ 'Project\\build\\transcripter\\PKG-00.pkg',
+ {'BINARY': 1,
+  'DATA': 1,
+  'EXECUTABLE': 1,
+  'EXTENSION': 1,
+  'PYMODULE': 1,
+  'PYSOURCE': 1,
+  'PYZ': 0},
+ [('PYZ-00.pyz',
+   'G:\\Projects\\Apollonius Projects\\Advocates '
+   'Project\\build\\transcripter\\PYZ-00.pyz',
+   'PYZ'),
+  ('struct', 'c:\\python 3.6\\lib\\struct.pyo', 'PYMODULE'),
+  ('pyimod01_os_path',
+   'c:\\python '
+   '3.6\\lib\\site-packages\\PyInstaller\\loader\\pyimod01_os_path.pyc',
+   'PYMODULE'),
+  ('pyimod02_archive',
+   'c:\\python '
+   '3.6\\lib\\site-packages\\PyInstaller\\loader\\pyimod02_archive.pyc',
+   'PYMODULE'),
+  ('pyimod03_importers',
+   'c:\\python '
+   '3.6\\lib\\site-packages\\PyInstaller\\loader\\pyimod03_importers.pyc',
+   'PYMODULE'),
+  ('pyiboot01_bootstrap',
+   'c:\\python '
+   '3.6\\lib\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
+   'PYSOURCE'),
+  ('pyi_rth_pkgres',
+   'c:\\python '
+   '3.6\\lib\\site-packages\\PyInstaller\\loader\\rthooks\\pyi_rth_pkgres.py',
+   'PYSOURCE'),
+  ('pyi_rth_win32comgenpy',
+   'c:\\python '
+   '3.6\\lib\\site-packages\\PyInstaller\\loader\\rthooks\\pyi_rth_win32comgenpy.py',
+   'PYSOURCE'),
+  ('pyi_rth_multiprocessing',
+   'c:\\python '
+   '3.6\\lib\\site-packages\\PyInstaller\\loader\\rthooks\\pyi_rth_multiprocessing.py',
+   'PYSOURCE'),
+  ('pyi_rth_certifi',
+   'c:\\python '
+   '3.6\\lib\\site-packages\\PyInstaller\\loader\\rthooks\\pyi_rth_certifi.py',
+   'PYSOURCE'),
+  ('pyi_rth_django',
+   'c:\\python '
+   '3.6\\lib\\site-packages\\PyInstaller\\loader\\rthooks\\pyi_rth_django.py',
+   'PYSOURCE'),
+  ('manage',
+   'G:\\Projects\\Apollonius Projects\\Advocates '
+   'Project\\transcripter\\manage.py',
+   'PYSOURCE'),
+  ('transcripter.exe.manifest',
+   'G:\\Projects\\Apollonius Projects\\Advocates '
+   'Project\\build\\transcripter\\transcripter.exe.manifest',
+   'BINARY')],
+ True,
+ False,
+ False,
+ [])
